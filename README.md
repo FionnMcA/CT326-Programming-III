@@ -9,11 +9,11 @@
 </p>
 
 
-## 📘 Module Information
+## Module Information
 
-- For more information on this module visit the [official course page](https://www.universityofgalway.ie/course-information/module/CT326).
+- For more information on this module visit the [official module page](https://www.universityofgalway.ie/course-information/module/CT326).
 
-## 📝 Assignment Grades
+## Assignment Grades
 
 | Assignment | Grade | 
 |------------|-------|
@@ -23,7 +23,7 @@
 | 4          | 100%  |
 | 5          | 100%  |
 
-## 🎓 Module Grade Breakdown
+## Module Grade Breakdown
 
 - **Assignments (CA):** 30% (Achieved 29.6/30)
 - **Final Exam:** 70% (Achieved 86/100, provisional)
