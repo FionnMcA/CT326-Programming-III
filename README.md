@@ -25,9 +25,9 @@
 
 ## 🎓 Module Grade Breakdown
 
-- **Coursework (CA):** 30% _(Achieved 29.6%)_
-- **Final Exam:** 70% _(Achieved 86%, provisional)_
+- **Assignments (CA):** 30% (Achieved 29.6/30)
+- **Final Exam:** 70% (Achieved 86/100, provisional)
 
-**Overall Module Grade:** 90% _(provisional)_
+**Overall Module Grade:** 90% (provisional)
 
 
