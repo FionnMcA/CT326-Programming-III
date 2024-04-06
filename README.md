@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  This repository contains my assignments for the CT326 - Programming III module at the University of Galway.
+  This repository contains my 3rd year assignments for the CT326 - Programming III module at the University of Galway.
 </p>
 
 
