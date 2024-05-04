@@ -23,11 +23,5 @@
 | 4          | 100%  |
 | 5          | 100%  |
 
-## Module Grade Breakdown
-
-- **Assignments (CA):** 30% (Achieved 29.6/30)
-- **Final Exam:** 70% (Achieved 86/100, provisional)
-
-**Overall Module Grade:** 90% (provisional)
 
 
